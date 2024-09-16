@@ -1,0 +1,124 @@
+2024-09-16 00:00:56,660 - __main__ - INFO - Starting NeurAI Explorer...
+2024-09-16 00:00:56,661 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=cat%3Acs.LG&id_list=&sortBy=submittedDate&sortOrder=descending&start=0&max_results=100
+2024-09-16 00:00:57,940 - arxiv - INFO - Got first page: 100 of 187794 total results
+2024-09-16 00:00:57,946 - __main__ - INFO - Processing paper: The unknotting number, hard unknot diagrams, and reinforcement learning
+2024-09-16 00:01:05,034 - __main__ - INFO - Model successfully built for The unknotting number, hard unknot diagrams, and reinforcement learning
+2024-09-16 00:01:05,035 - __main__ - INFO - Processing paper: INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction
+2024-09-16 00:01:08,403 - __main__ - INFO - Model successfully built for INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction
+2024-09-16 00:01:08,403 - __main__ - INFO - Processing paper: An Efficient and Streaming Audio Visual Active Speaker Detection System
+2024-09-16 00:01:11,348 - __main__ - INFO - Model successfully built for An Efficient and Streaming Audio Visual Active Speaker Detection System
+2024-09-16 00:01:11,348 - __main__ - INFO - Processing paper: VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization
+2024-09-16 00:01:13,758 - __main__ - INFO - Model successfully built for VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization
+2024-09-16 00:01:13,758 - __main__ - INFO - Processing paper: SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity
+2024-09-16 00:01:21,136 - __main__ - INFO - Model successfully built for SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity
+2024-09-16 00:01:21,136 - __main__ - INFO - Processing paper: Model-independent variable selection via the rule-based variable priorit
+2024-09-16 00:01:30,867 - __main__ - INFO - Model successfully built for Model-independent variable selection via the rule-based variable priorit
+2024-09-16 00:01:30,867 - __main__ - INFO - Processing paper: Biomimetic Frontend for Differentiable Audio Processing
+2024-09-16 00:01:34,492 - __main__ - INFO - Model successfully built for Biomimetic Frontend for Differentiable Audio Processing
+2024-09-16 00:01:34,492 - __main__ - INFO - Processing paper: Clean Label Attacks against SLU Systems
+2024-09-16 00:01:39,090 - __main__ - INFO - Model successfully built for Clean Label Attacks against SLU Systems
+2024-09-16 00:01:39,090 - __main__ - INFO - Processing paper: Predicting Trust In Autonomous Vehicles: Modeling Young Adult Psychosocial Traits, Risk-Benefit Attitudes, And Driving Factors With Machine Learning
+2024-09-16 00:01:46,716 - __main__ - INFO - Model successfully built for Predicting Trust In Autonomous Vehicles: Modeling Young Adult Psychosocial Traits, Risk-Benefit Attitudes, And Driving Factors With Machine Learning
+2024-09-16 00:01:46,716 - __main__ - INFO - Processing paper: PINNfluence: Influence Functions for Physics-Informed Neural Networks
+2024-09-16 00:01:51,270 - __main__ - INFO - Model successfully built for PINNfluence: Influence Functions for Physics-Informed Neural Networks
+2024-09-16 00:01:51,270 - __main__ - INFO - Processing paper: A Bayesian Approach to Clustering via the Proper Bayesian Bootstrap: the Bayesian Bagged Clustering (BBC) algorithm
+2024-09-16 00:01:55,059 - __main__ - INFO - Model successfully built for A Bayesian Approach to Clustering via the Proper Bayesian Bootstrap: the Bayesian Bagged Clustering (BBC) algorithm
+2024-09-16 00:01:55,059 - __main__ - INFO - Processing paper: DELTA: Dual Consistency Delving with Topological Uncertainty for Active Graph Domain Adaptation
+2024-09-16 00:02:01,108 - __main__ - INFO - Model successfully built for DELTA: Dual Consistency Delving with Topological Uncertainty for Active Graph Domain Adaptation
+2024-09-16 00:02:01,108 - __main__ - INFO - Processing paper: Average-Reward Maximum Entropy Reinforcement Learning for Underactuated Double Pendulum Tasks
+2024-09-16 00:02:04,675 - __main__ - INFO - Model successfully built for Average-Reward Maximum Entropy Reinforcement Learning for Underactuated Double Pendulum Tasks
+2024-09-16 00:02:04,675 - __main__ - INFO - Processing paper: Optimization and Generalization Guarantees for Weight Normalization
+2024-09-16 00:02:12,748 - __main__ - INFO - Model successfully built for Optimization and Generalization Guarantees for Weight Normalization
+2024-09-16 00:02:12,748 - __main__ - INFO - Processing paper: Multi forests: Variable importance for multi-class outcomes
+2024-09-16 00:02:20,490 - __main__ - INFO - Model successfully built for Multi forests: Variable importance for multi-class outcomes
+2024-09-16 00:02:20,490 - __main__ - INFO - Processing paper: XSub: Explanation-Driven Adversarial Attack against Blackbox Classifiers via Feature Substitution
+2024-09-16 00:02:25,581 - __main__ - INFO - Model successfully built for XSub: Explanation-Driven Adversarial Attack against Blackbox Classifiers via Feature Substitution
+2024-09-16 00:02:25,582 - __main__ - INFO - Processing paper: Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation
+2024-09-16 00:02:31,537 - __main__ - INFO - Model successfully built for Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation
+2024-09-16 00:02:31,537 - __main__ - INFO - Processing paper: HLTCOE JHU Submission to the Voice Privacy Challenge 2024
+2024-09-16 00:02:35,912 - __main__ - INFO - Model successfully built for HLTCOE JHU Submission to the Voice Privacy Challenge 2024
+2024-09-16 00:02:35,912 - __main__ - INFO - Processing paper: AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models
+2024-09-16 00:02:41,092 - __main__ - INFO - Model successfully built for AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models
+2024-09-16 00:02:41,092 - __main__ - INFO - Processing paper: Detect Fake with Fake: Leveraging Synthetic Data-driven Representation for Synthetic Image Detection
+2024-09-16 00:02:45,769 - __main__ - INFO - Model successfully built for Detect Fake with Fake: Leveraging Synthetic Data-driven Representation for Synthetic Image Detection
+2024-09-16 00:02:45,770 - __main__ - INFO - Processing paper: Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies
+2024-09-16 00:02:48,746 - __main__ - INFO - Model successfully built for Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies
+2024-09-16 00:02:48,747 - __main__ - INFO - Processing paper: Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control
+2024-09-16 00:03:00,934 - __main__ - INFO - Model successfully built for Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control
+2024-09-16 00:03:00,934 - __main__ - INFO - Processing paper: Kinect Calibration and Data Optimization For Anthropometric Parameters
+2024-09-16 00:03:04,615 - __main__ - INFO - Model successfully built for Kinect Calibration and Data Optimization For Anthropometric Parameters
+2024-09-16 00:03:04,616 - __main__ - INFO - Processing paper: FP-VEC: Fingerprinting Large Language Models via Efficient Vector Addition
+2024-09-16 00:03:08,619 - __main__ - INFO - Model successfully built for FP-VEC: Fingerprinting Large Language Models via Efficient Vector Addition
+2024-09-16 00:03:08,619 - __main__ - INFO - Processing paper: RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge
+2024-09-16 00:03:15,439 - __main__ - INFO - Model successfully built for RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge
+2024-09-16 00:03:15,439 - __main__ - INFO - Processing paper: Can Kans (re)discover predictive models for Direct-Drive Laser Fusion?
+2024-09-16 00:03:19,023 - __main__ - INFO - Model successfully built for Can Kans (re)discover predictive models for Direct-Drive Laser Fusion?
+2024-09-16 00:03:19,023 - __main__ - INFO - Processing paper: AutoIRT: Calibrating Item Response Theory Models with Automated Machine Learning
+2024-09-16 00:03:24,178 - __main__ - INFO - Model successfully built for AutoIRT: Calibrating Item Response Theory Models with Automated Machine Learning
+2024-09-16 00:03:24,178 - __main__ - INFO - Processing paper: TabKANet: Tabular Data Modelling with Kolmogorov-Arnold Network and Transformer
+2024-09-16 00:03:27,514 - __main__ - INFO - Model successfully built for TabKANet: Tabular Data Modelling with Kolmogorov-Arnold Network and Transformer
+2024-09-16 00:03:27,514 - __main__ - INFO - Processing paper: Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling
+2024-09-16 00:03:31,887 - __main__ - INFO - Model successfully built for Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling
+2024-09-16 00:03:31,887 - __main__ - INFO - Processing paper: Deep Learning-based Codes for Wiretap Fading Channels
+2024-09-16 00:03:36,122 - __main__ - INFO - Model successfully built for Deep Learning-based Codes for Wiretap Fading Channels
+2024-09-16 00:03:36,122 - __main__ - INFO - Processing paper: In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting
+2024-09-16 00:03:42,798 - __main__ - INFO - Model successfully built for In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting
+2024-09-16 00:03:42,798 - __main__ - INFO - Processing paper: Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent
+2024-09-16 00:03:52,218 - __main__ - INFO - Model successfully built for Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent
+2024-09-16 00:03:52,218 - __main__ - INFO - Processing paper: Measure-Theoretic Time-Delay Embedding
+2024-09-16 00:03:59,197 - __main__ - INFO - Model successfully built for Measure-Theoretic Time-Delay Embedding
+2024-09-16 00:03:59,197 - __main__ - INFO - Processing paper: SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks
+2024-09-16 00:04:09,600 - __main__ - INFO - Model successfully built for SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks
+2024-09-16 00:04:09,601 - __main__ - INFO - Processing paper: Energy Consumption Trends in Sound Event Detection Systems
+2024-09-16 00:04:13,030 - __main__ - INFO - Model successfully built for Energy Consumption Trends in Sound Event Detection Systems
+2024-09-16 00:04:13,030 - __main__ - INFO - Processing paper: Online Network Inference from Graph-Stationary Signals with Hidden Nodes
+2024-09-16 00:04:16,564 - __main__ - INFO - Model successfully built for Online Network Inference from Graph-Stationary Signals with Hidden Nodes
+2024-09-16 00:04:16,564 - __main__ - INFO - Processing paper: Uncertainty Estimation by Density Aware Evidential Deep Learning
+2024-09-16 00:04:23,080 - __main__ - INFO - Model successfully built for Uncertainty Estimation by Density Aware Evidential Deep Learning
+2024-09-16 00:04:23,080 - __main__ - INFO - Processing paper: A Hybrid Meta-Learning and Multi-Armed Bandit Approach for Context-Specific Multi-Objective Recommendation Optimization
+2024-09-16 00:04:26,145 - __main__ - INFO - Model successfully built for A Hybrid Meta-Learning and Multi-Armed Bandit Approach for Context-Specific Multi-Objective Recommendation Optimization
+2024-09-16 00:04:26,145 - __main__ - INFO - Processing paper: Uncertainty and Generalizability in Foundation Models for Earth Observation
+2024-09-16 00:04:29,334 - __main__ - INFO - Model successfully built for Uncertainty and Generalizability in Foundation Models for Earth Observation
+2024-09-16 00:04:29,334 - __main__ - INFO - Processing paper: Adaptive Sampling for Continuous Group Equivariant Neural Networks
+2024-09-16 00:04:35,793 - __main__ - INFO - Model successfully built for Adaptive Sampling for Continuous Group Equivariant Neural Networks
+2024-09-16 00:04:35,794 - __main__ - INFO - Processing paper: Multi-intent Aware Contrastive Learning for Sequential Recommendation
+2024-09-16 00:04:40,727 - __main__ - INFO - Model successfully built for Multi-intent Aware Contrastive Learning for Sequential Recommendation
+2024-09-16 00:04:40,727 - __main__ - INFO - Processing paper: Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP
+2024-09-16 00:04:45,197 - __main__ - INFO - Model successfully built for Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP
+2024-09-16 00:04:45,197 - __main__ - INFO - Processing paper: Disentangling the sources of cyber risk premia
+2024-09-16 00:04:52,748 - __main__ - INFO - Model successfully built for Disentangling the sources of cyber risk premia
+2024-09-16 00:04:52,748 - __main__ - INFO - Processing paper: Quasimetric Value Functions with Dense Rewards
+2024-09-16 00:04:57,683 - __main__ - INFO - Model successfully built for Quasimetric Value Functions with Dense Rewards
+2024-09-16 00:04:57,683 - __main__ - INFO - Processing paper: Layerwise Change of Knowledge in Neural Networks
+2024-09-16 00:05:09,100 - __main__ - INFO - Model successfully built for Layerwise Change of Knowledge in Neural Networks
+2024-09-16 00:05:09,100 - __main__ - INFO - Processing paper: L3Cube-IndicQuest: A Benchmark Questing Answering Dataset for Evaluating Knowledge of LLMs in Indic Context
+2024-09-16 00:05:12,517 - __main__ - INFO - Model successfully built for L3Cube-IndicQuest: A Benchmark Questing Answering Dataset for Evaluating Knowledge of LLMs in Indic Context
+2024-09-16 00:05:12,517 - __main__ - INFO - Processing paper: Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence
+2024-09-16 00:05:24,282 - __main__ - INFO - Model successfully built for Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence
+2024-09-16 00:05:24,282 - __main__ - INFO - Processing paper: Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding
+2024-09-16 00:05:28,561 - __main__ - INFO - Model successfully built for Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding
+2024-09-16 00:05:28,561 - __main__ - INFO - Processing paper: xTED: Cross-Domain Policy Adaptation via Diffusion-Based Trajectory Editing
+2024-09-16 00:05:35,003 - __main__ - INFO - Model successfully built for xTED: Cross-Domain Policy Adaptation via Diffusion-Based Trajectory Editing
+2024-09-16 00:05:35,003 - __main__ - INFO - Processing paper: Redesigning graph filter-based GNNs to relax the homophily assumption
+2024-09-16 00:05:39,444 - __main__ - INFO - Model successfully built for Redesigning graph filter-based GNNs to relax the homophily assumption
+2024-09-16 00:05:39,444 - __main__ - INFO - Processing paper: Acoustic identification of individual animals with hierarchical contrastive learning
+2024-09-16 00:05:43,281 - __main__ - INFO - Model successfully built for Acoustic identification of individual animals with hierarchical contrastive learning
+2024-09-16 00:05:43,281 - __main__ - INFO - Processing paper: Towards certifiable AI in aviation: landscape, challenges, and opportunities
+2024-09-16 00:05:51,091 - __main__ - INFO - Model successfully built for Towards certifiable AI in aviation: landscape, challenges, and opportunities
+2024-09-16 00:05:51,091 - __main__ - INFO - Processing paper: Investigating Disentanglement in a Phoneme-level Speech Codec for Prosody Modeling
+2024-09-16 00:05:55,116 - __main__ - INFO - Model successfully built for Investigating Disentanglement in a Phoneme-level Speech Codec for Prosody Modeling
+2024-09-16 00:05:55,117 - __main__ - INFO - Processing paper: Online Learning Of Expanding Graphs
+2024-09-16 00:06:00,820 - __main__ - INFO - Model successfully built for Online Learning Of Expanding Graphs
+2024-09-16 00:06:00,820 - __main__ - INFO - Processing paper: Promoting Fairness in Link Prediction with Graph Enhancement
+2024-09-16 00:06:05,854 - __main__ - INFO - Model successfully built for Promoting Fairness in Link Prediction with Graph Enhancement
+2024-09-16 00:06:05,854 - __main__ - INFO - Processing paper: LMAC-TD: Producing Time Domain Explanations for Audio Classifiers
+2024-09-16 00:06:09,773 - __main__ - INFO - Model successfully built for LMAC-TD: Producing Time Domain Explanations for Audio Classifiers
+2024-09-16 00:06:09,773 - __main__ - INFO - Processing paper: Training Gradient Boosted Decision Trees on Tabular Data Containing Label Noise for Classification Tasks
+2024-09-16 00:06:16,534 - __main__ - INFO - Model successfully built for Training Gradient Boosted Decision Trees on Tabular Data Containing Label Noise for Classification Tasks
+2024-09-16 00:06:16,535 - __main__ - INFO - Processing paper: CPL: Critical Planning Step Learning Boosts LLM Generalization in Reasoning Tasks
+2024-09-16 00:06:21,684 - __main__ - INFO - Model successfully built for CPL: Critical Planning Step Learning Boosts LLM Generalization in Reasoning Tasks
+2024-09-16 00:06:21,684 - __main__ - INFO - Processing paper: Byzantine-Robust and Communication-Efficient Distributed Learning via Compressed Momentum Filtering
+2024-09-16 00:06:27,153 - __main__ - INFO - Model successfully built for Byzantine-Robust and Communication-Efficient Distributed Learning via Compressed Momentum Filtering
+2024-09-16 00:06:27,153 - __main__ - INFO - Processing paper: Utilizing Data Fingerprints for Privacy-Preserving Algorithm Selection in Time Series Classification: Performance and Uncertainty Estimation on Unseen Datasets
+2024-09-16 00:06:32,401 - __main__ - INFO - Model successfully built for Utilizing Data Fingerprints for Privacy-Preserving Algorithm Selection in Time Series Classification: Performance and Uncertainty Estimation on Unseen Datasets
+2024-09-16 00:06:32,401 - __main__ - INFO - Processing paper: Improving Analog Neural Network Robustness: A Noise-Agnostic Approach with Explainable Regularizations
