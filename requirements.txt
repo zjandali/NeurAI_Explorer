@@ -1,0 +1,8 @@
+arxiv
+requests
+PyPDF2
+spacy
+transformers
+torch
+celery
+Flask

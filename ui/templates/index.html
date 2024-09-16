@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeurAI Explorer</title>
+</head>
+<body>
+    <h1>NeurAI Explorer - Recent Papers</h1>
+    <ul>
+        {% for paper in papers %}
+        <li>
+            <strong>Title:</strong> {{ paper.title }}<br>
+            <strong>Authors:</strong> {{ paper.authors | join(', ') }}<br>
+            <strong>Published:</strong> {{ paper.published }}<br>
+            <a href="{{ paper.pdf_url }}">PDF Link</a><br>
+            <p>{{ paper.abstract }}</p>
+        </li>
+        <hr>
+        {% endfor %}
+    </ul>
+</body>
+</html>
