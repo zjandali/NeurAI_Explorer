@@ -1,6 +1,4 @@
-Here’s a sample `README.md` for **NeurAI Explorer**, covering the project’s purpose, setup, usage, and contribution guidelines:
 
----
 
 # **NeurAI Explorer**
 
