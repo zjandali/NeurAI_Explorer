@@ -11,7 +11,7 @@
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## **Features**
 - **Web Scraping**: Automatically scrapes the latest machine learning papers from arXiv.
