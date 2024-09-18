@@ -127,11 +127,13 @@ neurAI_explorer/
 
 ## **Contributing**
 
-We welcome contributions! Here's how you can help:
+I welcome contributions! Here's how you can help:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-branch`.
 3. Commit your changes: `git commit -m "Add some feature"`.
 4. Push to the branch: `git push origin feature-branch`.
 5. Submit a pull request.
+
+email me at yzjandali@gmail.com if you have an questions!
 
