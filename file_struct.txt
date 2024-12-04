@@ -1,0 +1,38 @@
+neurAI_explorer/
+├── backend/
+│   ├── data_acquisition/
+│   │   ├── __init__.py
+│   │   └── fetch_papers.py
+│   ├── data_processing/
+│   │   ├── __init__.py
+│   │   └── process_papers.py
+│   ├── nlp_analysis/
+│   │   ├── __init__.py
+│   │   └── analyze_papers.py
+│   ├── model_adaptation/
+│   │   ├── __init__.py
+│   │   └── build_model.py
+│   ├── integration/
+│   │   ├── __init__.py
+│   │   ├── tasks.py
+│   │   └── research_tracker.py
+│   └── app.py
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── favicon.ico
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Dashboard.tsx
+│   │   │   ├── NetworkVisualizer.tsx
+│   │   │   ├── ResearchFeed.tsx
+│   │   │   └── ModelWorkspace.tsx
+│   │   ├── styles/
+│   │   │   └── main.css
+│   │   ├── App.tsx
+│   │   └── index.tsx
+│   ├── package.json
+│   └── tsconfig.json
+├── requirements.txt
+├── README.md
+└── .gitignore
